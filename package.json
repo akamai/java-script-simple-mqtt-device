@@ -1,0 +1,18 @@
+{
+  "name": "java-script-simple-mqtt-device",
+  "version": "1.0.0",
+  "description": "Java Script examples for the IoT Edge Connect",
+  "main": "src/app.js",
+  "keywords": [
+    "akamai",
+    "iec",
+    "iot",
+    "mqtt",
+    "broker"
+  ],
+  "author": "Tomasz Weglinski (tweglins@akamai.com)",
+  "license": "Apache 2",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
+}
